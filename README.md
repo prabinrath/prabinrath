@@ -4,7 +4,7 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - ⚡ Fun fact: ... -->
-- 🌱 I’m currently learning Legged Robotics Control and Perception
+- 🌱 I’m currently learning Robotics Control and Perception
 - 👯 I’m looking to collaborate on Robotics Projects
 - 😄 Pronouns: He/Him/His
 
