@@ -9,3 +9,4 @@
 - 😄 Pronouns: He/Him/His
 
 ![Prabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prabinrath&show_icons=true&hide_border=true)
+![](https://komarev.com/ghpvc/?username=prabinrath&color=green)
